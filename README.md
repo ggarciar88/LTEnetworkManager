@@ -16,13 +16,15 @@ ________________________________________________________________________________
 
 ## Description
 
-This is a simplified LTE (or 5G) network management desktop application written in Java using Swing. The project allows you to:
+This is a simplified LTE (or 5G) network management desktop application written in Java using Swing.
+The project allows you to:
 
 - Add new cells to the network
 - Specify location, frequency, and bandwidth
 - View a table of all active cells
 
-This kind of tool is useful in telecom engineering to visualize and manage base stations or gNodeBs in small-scale simulated networks.
+This kind of tool is useful in telecom engineering to visualize and manage base stations or gNodeBs in small-scale
+ simulated networks.
 
 ## Features
 
